@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Colin, an Electrical Engineer junior at the University of British Columbia, Vancouver and aspiring software developer. 
+I'm Leo, an Electrical Engineer junior at the University of British Columbia, Vancouver and aspiring software developer. 
 
-[![Colin Pereira's Github States](https://github-readme-stats.vercel.app/api?username=colinpereira&show_icons=true&theme=dracula)](https://github.com/colinpereira/github-readme-stats)
+[![Leonardo Reis's Github States](https://github-readme-stats.vercel.app/api?username=dayrell19&show_icons=true&theme=dracula)](https://github.com/dayrell19/github-readme-stats)
 
 **Here are some of my skills** <br />
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
